@@ -1,1 +1,1 @@
-This will get the average of the given set of numbers
+This will get the average of the given set of numbers and will return the numbers that were averaged.
