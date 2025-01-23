@@ -1,0 +1,1 @@
+To calculate factorial, decrement by 1 based on the number given. 
